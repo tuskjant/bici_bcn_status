@@ -18,6 +18,10 @@ It uses tkinter, customtkinter and tkintermapview for visualization.
 ### Demo
 
 
+https://github.com/tuskjant/bici_bcn_status/assets/151870795/61597beb-cd87-41dd-aafa-1af967d3be35
+
+
+
 ### Usage
 + 1. Enter a direction *(street, number)* in Barcelona
 + 2. Select if you want to see empty slots, ebikes or bikes
