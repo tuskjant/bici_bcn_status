@@ -1,4 +1,4 @@
-## <img src=images/bicicleta.PNG>   Bici bcn Status
+## ![bicicleta](https://github.com/tuskjant/bici_bcn_status/blob/main/images/bicicleta.png?raw=true)   Bici bcn Status
 
 ### About
 Bici bcn status 
