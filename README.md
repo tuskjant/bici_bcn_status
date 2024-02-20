@@ -1,5 +1,5 @@
 ## ![bicicleta](https://github.com/tuskjant/bici_bcn_status/blob/main/images/bicicleta.png?raw=true)   Bici bcn Status
-
+Bicing service rack status
 ### About
 Bici bcn status 
 It's a simple gui app made in python with the aim of practicing code 
@@ -17,8 +17,8 @@ This app uses two apis:
 It uses tkinter, customtkinter and tkintermapview for visualization.
 ### Demo
 
+https://github.com/tuskjant/bici_bcn_status/assets/151870795/e45a89fe-5304-492a-b19b-e50f18e160e5
 
-https://github.com/tuskjant/bici_bcn_status/assets/151870795/61597beb-cd87-41dd-aafa-1af967d3be35
 
 
 
